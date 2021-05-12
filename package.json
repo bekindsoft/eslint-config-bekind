@@ -1,0 +1,24 @@
+{
+  "name": "@bekindsoft/eslint-config-bekind",
+  "version": "0.2.1",
+  "description": "Shareable ESLint config for bekind node projects",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bekindsoft/eslint-config-bekind.git"
+  },
+  "author": "Bekind software",
+  "license": "BSD-3-Clause",
+  "keywords": [
+    "bekind",
+    "lint",
+    "eslint",
+    "eslintconfig"
+  ],
+  "peerDependencies": {
+    "@hapi/eslint-plugin": "5.x.x"
+  }
+}
